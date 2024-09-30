@@ -1,5 +1,5 @@
 # Contact-API-App
-This repository contains a controller which is dealing with contacts. You can GET/POST/PUT/PATCH and DELETE them.
+This repository contains a controller which is dealing with contacts. You can GET/POST/PUT/DELETE them.
 
 ## Overview
 
