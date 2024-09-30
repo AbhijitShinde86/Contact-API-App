@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "Abhijit",
+    "lastName": "Shinde",
+    "email": "abhijitashinde121@gmail.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Abhi 2",
+    "lastName": "Shinde 2",
+    "email": "abhi2@abc.com"
+  },
+  {
+    "id": 3,
+    "firstName": "Ajit",
+    "lastName": "Shinde",
+    "email": "abc@abc.com"
+  },
+  {
+    "id": 4,
+    "firstName": "Ajit 2",
+    "lastName": "Shinde 2",
+    "email": "abc2@abc.com"
+  }
+]
